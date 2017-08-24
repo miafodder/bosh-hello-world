@@ -2,6 +2,6 @@
 name: go-tournament
 
 templates: 
-  ctl.sh: ctl.sh
+  ctl.sh: bin/ctl.sh
 packages: 
   - go-tournament

@@ -1,0 +1,15 @@
+name: bosh-hello-world
+version: 0+dev.4
+commit_hash: 8019d89
+uncommitted_changes: true
+jobs:
+- name: go-tournament
+  version: 0fc8fc7ca289b74cccd571fdafd1dc9cd8b0cf09
+  fingerprint: 0fc8fc7ca289b74cccd571fdafd1dc9cd8b0cf09
+  sha1: add6e43ffc406455919e9516d30302f1ffaea4c7
+packages:
+- name: go-tournament
+  version: 253048f11f5cc5628041ca26bcea803fababb0ad
+  fingerprint: 253048f11f5cc5628041ca26bcea803fababb0ad
+  sha1: a024801f2e595b9732777ad8d484b09ca52c2f2c
+  dependencies: []
