@@ -1,4 +1,10 @@
 builds:
+  243e7275-53d5-490d-734e-f0eec7a732a1:
+    version: 0+dev.5
+  50354cad-480c-4872-7f16-b2626c5e5692:
+    version: 0+dev.6
+  67c33073-17bf-489c-7d11-6318e9a04ddf:
+    version: 0+dev.7
   a9478ba5-c545-4187-59d2-dbd2a277cb3a:
     version: 0+dev.3
   acfbace8-1d61-4202-5b4c-9bd65ccd52b6:
