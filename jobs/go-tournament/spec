@@ -1,0 +1,9 @@
+---
+name: go-tournament
+
+templates:
+ ctl.sh: ctl
+
+packages: []
+
+properties: {}

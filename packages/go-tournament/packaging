@@ -1,0 +1,2 @@
+set -e
+cp -r go-tournament ${BOSH_INSTALL_TARGET}
