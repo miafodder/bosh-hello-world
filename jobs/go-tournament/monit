@@ -1,5 +1,5 @@
 check process go-tournament
   with pidfile /var/vcap/sys/run/bosh-hello-world/pid
-  start program "/var/vcap/jobs/go-tournament/ctl.sh start"
-  stop program "/var/vcap/jobs/go-tournament/ctl.sh stop"
+  start program "/var/vcap/jobs/go-tournament/template/ctl.sh start"
+  stop program "/var/vcap/jobs/go-tournament/template/ctl.sh stop"
   group vcap
